@@ -1,0 +1,27 @@
+using IStumbledTooHardGuys;
+using MelonLoader;
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Runtime.Versioning;
+using System.Security.Permissions;
+
+[assembly: AssemblyCompany("McAndNotpies Corporation")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCopyright("Copyright © 2022")]
+[assembly: AssemblyDescription("I have stumbled too hard unfortunately.")]
+[assembly: AssemblyFileVersion("1.6.3")]
+[assembly: AssemblyProduct("IStumbledTooHardGuys")]
+[assembly: AssemblyTitle("IStumbledTooHardGuys")]
+[assembly: AssemblyTrademark("Ur Mother")]
+[assembly: AssemblyVersion("1.6.3.0")]
+[assembly: CompilationRelaxations(8)]
+[assembly: ComVisible(false)]
+[assembly: Debuggable(DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)]
+[assembly: Guid("097ff6f7-fe73-427b-8bde-d40fc9471060")]
+[assembly: MelonGame("Kitka Games", "Stumble Guys")]
+[assembly: MelonInfo(typeof(IStumbledTooHardGuys), "IStumbledTooHardGuys", "1.6.3", "McMistrzYT, notpies, BackFindString", null)]
+[assembly: RuntimeCompatibility(WrapNonExceptionThrows=true)]
+[assembly: SecurityPermission(SecurityAction.RequestMinimum, SkipVerification=true)]
+[assembly: TargetFramework(".NETFramework,Version=v4.7.2", FrameworkDisplayName=".NET Framework 4.7.2")]
